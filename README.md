@@ -7,3 +7,4 @@
   * Let user control size of window (note: double clicking white space above "name/value" column makes it fullscreen.
   * More granular controls of private variables. I've like to have a private collection of primatives that don't get published, but I do want them to be exported or available to plugins.
   * Search within variables window
+  * When variable value is an alias, let me be able to jump/link to that alias token
