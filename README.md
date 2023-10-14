@@ -1,5 +1,7 @@
 # Figma Wishlist
 
+## Base App
+
 * Being able to simulate CSS's "inline-block". Ex. I want to be able to have an icon component follow a line of text that wraps.
 * Variables
   * Import/export to JSON! (I'm sure this'll come one day)    
@@ -8,3 +10,8 @@
   * More granular controls of private variables. I've like to have a private collection of primatives that don't get published, but I do want them to be exported or available to plugins.
   * Search within variables window
   * When variable value is an alias, let me be able to jump/link to that alias token
+
+ 
+## Plugins
+* Take a component and build a page with every instance of variation/permutation possible with the properties (to validate design)
+    * Bonus points for using different lengths of strings (to test wrapping, clipping, etc.)  
