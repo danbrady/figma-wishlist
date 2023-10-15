@@ -10,6 +10,7 @@
   * More granular controls of private variables. I've like to have a private collection of primatives that don't get published, but I do want them to be exported or available to plugins.
   * Search within variables window
   * When variable value is an alias, let me be able to jump/link to that alias token
+  * When search for variable names, allow search by value too
 
  
 ## Plugins
