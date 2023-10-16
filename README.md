@@ -3,7 +3,9 @@
 ## Base App
 
 * Being able to simulate CSS's "inline-block". Ex. I want to be able to have an icon component follow a line of text that wraps.
-* Variables
+* Allow border offset to simulate CSS's "outline-offset"
+
+### Variables
   * Import/export to JSON! (I'm sure this'll come one day)    
   * Resize columns widths
   * Let user control size of window (note: double clicking white space above "name/value" column makes it fullscreen.
@@ -11,6 +13,7 @@
   * Search within variables window
   * When variable value is an alias, let me be able to jump/link to that alias token
   * When search for variable names, allow search by value too
+ 
 
  
 ## Plugins
