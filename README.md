@@ -5,6 +5,7 @@
 * Being able to simulate CSS's "inline-block". Ex. I want to be able to have an icon component follow a line of text that wraps.
 * Allow border offset to simulate CSS's "outline-offset"
 * Be able to resize right side panel. (Hard to read long variable names.)
+* Use booleans for more than just layer visibility (Ex. Change autolayout direction for stacking buttons vertically)
 
 ### Variables
   * Import/export to JSON! (I'm sure this'll come one day)    
