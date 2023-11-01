@@ -15,8 +15,7 @@
   * Search within variables window
   * When variable value is an alias, let me be able to jump/link to that alias token
   * When search for variable names, allow search by value too
- 
-
+  * Let variables set component properties
  
 ## Plugins
 * Take a component and build a page with every instance of variation/permutation possible with the properties (to validate design)
