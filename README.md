@@ -7,6 +7,8 @@
 * Be able to resize right side panel. (Hard to read long variable names.)
 * Use booleans for more than just layer visibility (Ex. Change autolayout direction for stacking buttons vertically)
 * Allow jumping to pages by name using the quick search (Cmd+P)
+* More granular control of nested properties. (Would like only to expose *some* properties from a nested component.)
+* Better UI for nested properties in panel. (Maybe indentec? Allow expanded/collapsed by default.)
   
 ### Variables
   * Import/export to JSON! (I'm sure this'll come one day)    
