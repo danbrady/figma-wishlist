@@ -6,7 +6,8 @@
 * Allow border offset to simulate CSS's "outline-offset"
 * Be able to resize right side panel. (Hard to read long variable names.)
 * Use booleans for more than just layer visibility (Ex. Change autolayout direction for stacking buttons vertically)
-
+* Allow jumping to pages by name using the quick search (Cmd+P)
+  
 ### Variables
   * Import/export to JSON! (I'm sure this'll come one day)    
   * Resize columns widths
