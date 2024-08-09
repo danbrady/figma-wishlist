@@ -10,6 +10,7 @@
 * More granular control of nested properties. (Would like only to expose *some* properties from a nested component.)
 * Better UI for nested properties in panel. (Maybe indentec? Allow expanded/collapsed by default.)
 * Allow custom bullets in lists
+* Detach Find from Layers panel
   
 ### Variables
   * Import/export to JSON! (I'm sure this'll come one day)    
