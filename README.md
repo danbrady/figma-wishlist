@@ -11,6 +11,7 @@
 * Better UI for nested properties in panel. (Maybe indentec? Allow expanded/collapsed by default.)
 * Allow custom bullets in lists
 * Detach Find from Layers panel
+* Allow different stroke colors per side
   
 ### Variables
   * Import/export to JSON! (I'm sure this'll come one day)    
